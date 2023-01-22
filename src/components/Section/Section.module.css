@@ -1,0 +1,7 @@
+.Counter__title {
+    display: flex;
+    font-size: 40px;
+    margin-bottom: 30px;
+    text-shadow: 1px 1px 2px;
+    color: rgb(34, 56, 56);
+}
